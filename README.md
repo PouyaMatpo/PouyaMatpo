@@ -1,8 +1,4 @@
-[![Hi, I'm Pouya](./1637766935078.jpeg)](#)
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+[![Hi, I'm Pouya](./coding.jpg)](#)
 
 <span align="center">
   
