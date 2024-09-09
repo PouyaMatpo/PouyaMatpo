@@ -31,4 +31,7 @@
     <img src="https://img.shields.io/badge/Vuejs-%ffffff.svg?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Nuxtjs-%ffffff.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Vuetify-%2320232a.svg?style=for-the-badge&logo=vuetify&logoColor=%1867c0" />
+    <img src="https://img.shields.io/badge/typescript-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/gsap-%23E34F26.svg?style=for-the-badge&logo=gsap&logoColor=white" />
+    <img src="https://img.shields.io/badge/threejs-%23E34F26.svg?style=for-the-badge&logo=threejs&logoColor=white" />
   </div>
