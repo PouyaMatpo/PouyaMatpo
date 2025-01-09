@@ -15,7 +15,7 @@
 <h3>Hey there 👋</h3>
 
 <ul>
-    <li> 😎 I’m Pouya, a Mid-Level Front-End Developer | Vue.js & Nuxt.js Specialist | 3D Web Animations</li>
+    <li> 😎 I’m Pouya, a Front-End Developer | Vue.js & Nuxt.js Specialist | 3D Web Animations</li>
     <li> 💬 Let's talk about pixel-perfect and high-performance web applications.</li>
 </ul>
 </span>
